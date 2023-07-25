@@ -1,0 +1,11 @@
+Assets/Models/Enemy/Enemy.fbx filter=lfs diff=lfs merge=lfs -text
+MB filter=lfs diff=lfs merge=lfs -text
+Assets/NPC/Idle filter=lfs diff=lfs merge=lfs -text
+(1).fbx filter=lfs diff=lfs merge=lfs -text
+is filter=lfs diff=lfs merge=lfs -text
+105.95 filter=lfs diff=lfs merge=lfs -text
+Assets/NPC/Talking.fbx filter=lfs diff=lfs merge=lfs -text
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Library/PlayerDataCache/Win64/Data/sharedassets1.assets.resS filter=lfs diff=lfs merge=lfs -text
+File filter=lfs diff=lfs merge=lfs -text
+Assets/NPC/Idle(1).fbx filter=lfs diff=lfs merge=lfs -text

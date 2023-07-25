@@ -1,0 +1,2 @@
+C:\Unity Projects\Diploma 20.05\obj\Debug\Assembly-CSharp-Editor.csproj.AssemblyReference.cache
+C:\Unity Projects\Diploma 20.05\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
